@@ -1,0 +1,1456 @@
+2025-04-30 08:28:17,570 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.155', '2025-04-30 08:28:17.569869', 3226)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:17,944 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.223', '2025-04-30 08:28:17.941849', 3253)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:18,503 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 08:28:18.500047', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:18,869 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.169', '2025-04-30 08:28:18.866725', 3317)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:19,250 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.82', '2025-04-30 08:28:19.246841', 3364)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:19,431 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.94', '2025-04-30 08:28:19.428100', 3187)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:19,610 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 08:28:19.607366', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:19,792 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.164', '2025-04-30 08:28:19.789535', 3307)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:19,974 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 08:28:19.971518', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:20,154 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.146', '2025-04-30 08:28:20.151770', 3300)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:20,510 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.147', '2025-04-30 08:28:20.507316', 3269)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:20,687 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 08:28:20,869 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.162', '2025-04-30 08:28:20.867084', 3166)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:21,166 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.93', '2025-04-30 08:28:21.165197', 3131)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:21,342 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.180', '2025-04-30 08:28:21.339772', 3313)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:21,721 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.227', '2025-04-30 08:28:21.718780', 3354)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:22,104 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.199', '2025-04-30 08:28:22.101580', 3277)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:22,285 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.113', '2025-04-30 08:28:22.282124', 3223)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:22,466 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 08:28:22.463481', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:22,643 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.66', '2025-04-30 08:28:22.642839', 3163)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:22,821 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.95', '2025-04-30 08:28:22.818125', 3380)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:23,401 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.228', '2025-04-30 08:28:23.398082', 3358)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:23,584 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.231', '2025-04-30 08:28:23.580529', 3174)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:24,023 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.150', '2025-04-30 08:28:24.019984', 3141)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:24,204 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.124', '2025-04-30 08:28:24.201392', 3349)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:24,384 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.143', '2025-04-30 08:28:24.381256', 3134)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:24,567 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.173', '2025-04-30 08:28:24.564679', 3288)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:24,748 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.59', '2025-04-30 08:28:24.745708', 3291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:25,123 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.78', '2025-04-30 08:28:25.121075', 3282)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:25,704 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.100', '2025-04-30 08:28:25.701446', 3296)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:25,887 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.32', '2025-04-30 08:28:25.884343', 3142)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:26,070 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.70', '2025-04-30 08:28:26.067207', 3363)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:26,250 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.182', '2025-04-30 08:28:26.247597', 3173)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:26,432 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.100', '2025-04-30 08:28:26.429429', 3255)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:26,611 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.171', '2025-04-30 08:28:26.610707', 3239)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:26,987 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.222', '2025-04-30 08:28:26.984748', 3261)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:27,551 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.112', '2025-04-30 08:28:27.547750', 3320)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:28,132 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.161', '2025-04-30 08:28:28.129190', 3216)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:28,313 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.247', '2025-04-30 08:28:28.310870', 3237)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:28,885 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.149', '2025-04-30 08:28:28.882843', 3257)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:29,265 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.148', '2025-04-30 08:28:29.262792', 3328)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:29,446 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.118', '2025-04-30 08:28:29.443298', 3202)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:29,626 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.173', '2025-04-30 08:28:29.623978', 3214)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:30,010 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.145', '2025-04-30 08:28:30.007331', 3156)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:30,389 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.97', '2025-04-30 08:28:30.385167', 3289)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:30,572 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.160', '2025-04-30 08:28:30.569394', 3272)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:30,945 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 08:28:31,336 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.163', '2025-04-30 08:28:31.333599', 3240)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:31,517 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.191', '2025-04-30 08:28:31.514736', 3201)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:31,702 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.128', '2025-04-30 08:28:31.699503', 3362)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:31,881 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.135', '2025-04-30 08:28:31.880916', 3260)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:32,451 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 08:28:32,817 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.184', '2025-04-30 08:28:32.816243', 3312)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:32,992 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 08:28:33,171 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 08:28:33,743 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 08:28:34,120 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 08:28:34,487 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 08:28:35,062 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.221', '2025-04-30 08:28:35.060127', 3139)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:35,251 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.107', '2025-04-30 08:28:35.248970', 3203)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:35,431 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.72', '2025-04-30 08:28:35.428565', 3231)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:35,609 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 08:28:35,792 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.110', '2025-04-30 08:28:35.788971', 3278)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:36,357 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.157', '2025-04-30 08:28:36.354385', 3220)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:36,541 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.74', '2025-04-30 08:28:36.537608', 3373)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:37,116 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.117', '2025-04-30 08:28:37.114016', 3241)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:37,484 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.206', '2025-04-30 08:28:37.481084', 3347)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:37,662 - ERROR - Номер 17639 отсутствует в БД
+2025-04-30 08:28:37,840 - ERROR - Номер 17640 отсутствует в БД
+2025-04-30 08:28:38,221 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.142', '2025-04-30 08:28:38.216853', 3125)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:38,586 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.176', '2025-04-30 08:28:38.583835', 3234)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:39,534 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.91', '2025-04-30 08:28:39.533514', 3273)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:39,708 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 08:28:39,885 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.178', '2025-04-30 08:28:39.885105', 3375)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:40,064 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.130', '2025-04-30 08:28:40.060840', 3150)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:40,628 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.146', '2025-04-30 08:28:40.625855', 3117)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:40,810 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.156', '2025-04-30 08:28:40.807613', 3258)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:41,191 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.144', '2025-04-30 08:28:41.188352', 3184)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:41,373 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.152', '2025-04-30 08:28:41.370877', 3114)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:41,556 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.184', '2025-04-30 08:28:41.553735', 3336)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:41,737 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.137', '2025-04-30 08:28:41.735015', 3195)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:42,109 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.189', '2025-04-30 08:28:42.106554', 3162)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:42,490 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.139', '2025-04-30 08:28:42.487995', 3298)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:42,866 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 08:28:43,045 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 08:28:43,608 - ERROR - Номер 17675 отсутствует в БД
+2025-04-30 08:28:43,785 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 08:28:44,175 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.143', '2025-04-30 08:28:44.172388', 3285)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:44,359 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.232', '2025-04-30 08:28:44.356366', 3326)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:45,128 - ERROR - Номер 17686 отсутствует в БД
+2025-04-30 08:28:46,012 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.193', '2025-04-30 08:28:46.010481', 3204)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:46,393 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.56', '2025-04-30 08:28:46.390801', 3356)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:46,759 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.67', '2025-04-30 08:28:46.758638', 3209)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:46,936 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.219', '2025-04-30 08:28:46.934497', 3151)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:47,118 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.63', '2025-04-30 08:28:47.115920', 3246)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:47,300 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.75', '2025-04-30 08:28:47.297397', 3243)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:47,866 - ERROR - Номер 17705 отсутствует в БД
+2025-04-30 08:28:48,045 - ERROR - Номер 17706 отсутствует в БД
+2025-04-30 08:28:48,220 - ERROR - Номер 17707 отсутствует в БД
+2025-04-30 08:28:48,595 - ERROR - Номер 17709 отсутствует в БД
+2025-04-30 08:28:48,772 - ERROR - Номер 17710 отсутствует в БД
+2025-04-30 08:28:50,070 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.61', '2025-04-30 08:28:50.068161', 3116)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:50,632 - ERROR - Номер 17725 отсутствует в БД
+2025-04-30 08:28:51,887 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.152', '2025-04-30 08:28:51.884189', 3228)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:52,452 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.167', '2025-04-30 08:28:52.449402', 3235)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:53,023 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.198', '2025-04-30 08:28:53.020571', 3251)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:53,203 - ERROR - Номер 17738 отсутствует в БД
+2025-04-30 08:28:53,976 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.224', '2025-04-30 08:28:53.974220', 3302)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:54,159 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.203', '2025-04-30 08:28:54.156957', 3342)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:54,342 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.188', '2025-04-30 08:28:54.339265', 3232)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:54,727 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.172', '2025-04-30 08:28:54.724677', 3222)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:55,888 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.214', '2025-04-30 08:28:55.885394', 3242)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:56,391 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.192', '2025-04-30 08:28:56.388583', 3177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:57,366 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.62', '2025-04-30 08:28:57.364065', 3337)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:57,549 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.191', '2025-04-30 08:28:57.545730', 3338)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:57,733 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.185', '2025-04-30 08:28:57.730002', 3256)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:57,909 - ERROR - Номер 17771 отсутствует в БД
+2025-04-30 08:28:58,677 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.186', '2025-04-30 08:28:58.673038', 3148)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:58,855 - ERROR - Номер 17776 отсутствует в БД
+2025-04-30 08:28:59,039 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.165', '2025-04-30 08:28:59.036063', 3305)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:28:59,239 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.131', '2025-04-30 08:28:59.236217', 3343)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:00,195 - ERROR - Номер 17784 отсутствует в БД
+2025-04-30 08:29:01,545 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.170', '2025-04-30 08:29:01.542965', 3224)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:01,727 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.189', '2025-04-30 08:29:01.724507', 3385)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:02,511 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.174', '2025-04-30 08:29:02.508445', 3200)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:03,078 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.124', '2025-04-30 08:29:03.075400', 3137)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:03,258 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.85', '2025-04-30 08:29:03.255634', 3154)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:03,441 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.119', '2025-04-30 08:29:03.438833', 3205)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:03,624 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.138', '2025-04-30 08:29:03.620751', 3275)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:03,803 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.133', '2025-04-30 08:29:03.800874', 3378)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:04,371 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.215', '2025-04-30 08:29:04.367754', 3294)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:05,318 - ERROR - Номер 17813 отсутствует в БД
+2025-04-30 08:29:05,886 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.179', '2025-04-30 08:29:05.883364', 3146)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:06,069 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.150', '2025-04-30 08:29:06.066798', 3144)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:06,252 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.209', '2025-04-30 08:29:06.249368', 3384)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:07,210 - ERROR - Номер 17823 отсутствует в БД
+2025-04-30 08:29:07,388 - ERROR - Номер 17824 отсутствует в БД
+2025-04-30 08:29:07,566 - ERROR - Номер 17825 отсутствует в БД
+2025-04-30 08:29:08,364 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.86', '2025-04-30 08:29:08.361847', 3179)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:08,743 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.159', '2025-04-30 08:29:08.740280', 3197)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:08,924 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.234', '2025-04-30 08:29:08.921743', 3160)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:09,491 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.200', '2025-04-30 08:29:09.488807', 3217)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:10,874 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.133', '2025-04-30 08:29:10.870891', 3340)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:11,253 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.92', '2025-04-30 08:29:11.250222', 3140)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:11,435 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.88', '2025-04-30 08:29:11.431534', 3353)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:11,616 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.102', '2025-04-30 08:29:11.613202', 3351)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:12,184 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.132', '2025-04-30 08:29:12.182001', 3311)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:12,557 - ERROR - Номер 17854 отсутствует в БД
+2025-04-30 08:29:12,740 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.149', '2025-04-30 08:29:12.737368', 3152)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:12,915 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.166', '2025-04-30 08:29:12.913931', 3346)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:13,088 - ERROR - Номер 17857 отсутствует в БД
+2025-04-30 08:29:13,270 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.185', '2025-04-30 08:29:13.267503', 3330)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:13,446 - ERROR - Номер 17859 отсутствует в БД
+2025-04-30 08:29:14,995 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.207', '2025-04-30 08:29:14.992452', 3252)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:15,565 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.89', '2025-04-30 08:29:15.562960', 3188)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:15,747 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.96', '2025-04-30 08:29:15.744921', 3191)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:16,321 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.93', '2025-04-30 08:29:16.318485', 3135)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:16,694 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.104', '2025-04-30 08:29:16.692362', 3318)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:29:17,959 - ERROR - Номер 17881 отсутствует в БД
+2025-04-30 08:42:26,568 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 08:42:26.567875', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:42:28,646 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 08:42:29,859 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 08:42:29.858527', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:47:49,615 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 08:47:49.614666', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:47:51,388 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 08:47:52,460 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 08:47:52.459796', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:47:55,334 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 08:47:55,865 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 08:47:56,050 - ERROR - Номер 34755 отсутствует в БД
+2025-04-30 08:47:56,429 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 08:47:56,859 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 08:48:29,201 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 08:48:29.198001', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:31,323 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 08:48:31.320699', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:31,700 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 08:48:31.697908', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:31,879 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.146', '2025-04-30 08:48:31.875170', 3300)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:32,423 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 08:48:33,364 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.227', '2025-04-30 08:48:33.361879', 3354)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:33,722 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.199', '2025-04-30 08:48:33.719780', 3277)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:33,900 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.113', '2025-04-30 08:48:33.897685', 3223)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:34,076 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 08:48:34.074044', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:35,378 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.150', '2025-04-30 08:48:35.376225', 3141)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:36,139 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.59', '2025-04-30 08:48:36.137006', 3291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:37,427 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.70', '2025-04-30 08:48:37.424402', 3363)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:37,608 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.182', '2025-04-30 08:48:37.603289', 3173)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:48:37,785 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.100', '2025-04-30 08:48:37.782880', 3255)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:48,942 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 08:49:48.940220', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:50,009 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 08:49:50.006537', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:50,364 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 08:49:50.361866', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:51,095 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 08:49:51,993 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.227', '2025-04-30 08:49:51.990499', 3354)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:52,534 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.113', '2025-04-30 08:49:52.533804', 3223)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:52,712 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 08:49:52.710124', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 08:49:53,968 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.150', '2025-04-30 08:49:53.965236', 3141)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:33,699 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 09:02:33.697431', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:53,923 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 09:02:53.920099', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:54,991 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 09:02:54.983948', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:55,349 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 09:02:55.346911', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:57,080 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:02:57,967 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.227', '2025-04-30 09:02:57.964780', 3354)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:58,500 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.113', '2025-04-30 09:02:58.500202', 3223)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:58,675 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 09:02:58.673400', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:02:59,933 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.150', '2025-04-30 09:02:59.930699', 3141)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:00,648 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.59', '2025-04-30 09:03:00.645130', 3291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:02,295 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.70', '2025-04-30 09:03:02.292831', 3363)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:02,474 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.182', '2025-04-30 09:03:02.471156', 3173)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:02,652 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.100', '2025-04-30 09:03:02.649754', 3255)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:03,726 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.112', '2025-04-30 09:03:03.723501', 3320)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:04,265 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.161', '2025-04-30 09:03:04.263045', 3216)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:04,436 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.247', '2025-04-30 09:03:04.435707', 3237)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:05,728 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.173', '2025-04-30 09:03:05.725470', 3214)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:06,651 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.160', '2025-04-30 09:03:06.648757', 3272)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:07,005 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 09:03:07,746 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.128', '2025-04-30 09:03:07.743990', 3362)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:08,470 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 09:03:09,835 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.184', '2025-04-30 09:03:09.834183', 3312)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:10,008 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 09:03:10,181 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 09:03:10,716 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 09:03:11,066 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 09:03:11,423 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 09:03:11,958 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.221', '2025-04-30 09:03:11.957614', 3139)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:12,521 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 09:03:13,445 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.74', '2025-04-30 09:03:13.440680', 3373)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:14,533 - ERROR - Номер 17639 отсутствует в БД
+2025-04-30 09:03:14,708 - ERROR - Номер 17640 отсутствует в БД
+2025-04-30 09:03:16,522 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 09:03:16,891 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.130', '2025-04-30 09:03:16.888276', 3150)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:18,191 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.152', '2025-04-30 09:03:18.188575', 3114)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:19,311 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.139', '2025-04-30 09:03:19.308781', 3298)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:03:19,663 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 09:03:19,839 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 09:03:20,374 - ERROR - Номер 17675 отсутствует в БД
+2025-04-30 09:03:20,549 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 09:12:15,190 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 09:12:15.187766', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:12:16,246 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 09:12:16.243825', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:12:16,604 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 09:12:16.601153', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:12:17,319 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:12:42,524 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:13:46,456 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 09:13:46.453623', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:32,500 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.153', '2025-04-30 09:17:32.497248', 3207)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:33,943 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.170', '2025-04-30 09:17:33.940525', 3333)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:34,299 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.162', '2025-04-30 09:17:34.298837', 3303)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:35,008 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:17:36,450 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.113', '2025-04-30 09:17:36.447657', 3223)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:36,629 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 09:17:36.626778', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:37,881 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.150', '2025-04-30 09:17:37.878649', 3141)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:38,599 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.59', '2025-04-30 09:17:38.597000', 3291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:39,848 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.70', '2025-04-30 09:17:39.845302', 3363)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:41,318 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.112', '2025-04-30 09:17:41.315604', 3320)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:41,853 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.161', '2025-04-30 09:17:41.850808', 3216)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:42,031 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.247', '2025-04-30 09:17:42.028234', 3237)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:44,185 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.160', '2025-04-30 09:17:44.182494', 3272)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:44,539 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 09:17:45,251 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.128', '2025-04-30 09:17:45.250371', 3362)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:45,960 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 09:17:46,502 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 09:17:46,677 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 09:17:47,203 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 09:17:47,555 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 09:17:47,907 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 09:17:48,438 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.221', '2025-04-30 09:17:48.437908', 3139)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:48,967 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 09:17:49,855 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.74', '2025-04-30 09:17:49.853336', 3373)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:51,328 - ERROR - Номер 17639 отсутствует в БД
+2025-04-30 09:17:51,502 - ERROR - Номер 17640 отсутствует в БД
+2025-04-30 09:17:53,286 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 09:17:54,900 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.152', '2025-04-30 09:17:54.897521', 3114)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:55,975 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.139', '2025-04-30 09:17:55.972495', 3298)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:56,334 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 09:17:56,510 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 09:17:57,049 - ERROR - Номер 17675 отсутствует в БД
+2025-04-30 09:17:57,224 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 09:17:57,586 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.143', '2025-04-30 09:17:57.583628', 3285)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:57,764 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.232', '2025-04-30 09:17:57.761878', 3326)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:17:59,485 - ERROR - Номер 17686 отсутствует в БД
+2025-04-30 09:18:01,183 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.219', '2025-04-30 09:18:01.182891', 3151)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:01,360 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.63', '2025-04-30 09:18:01.357364', 3246)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:02,084 - ERROR - Номер 17705 отсутствует в БД
+2025-04-30 09:18:02,259 - ERROR - Номер 17706 отсутствует в БД
+2025-04-30 09:18:02,432 - ERROR - Номер 17707 отсутствует в БД
+2025-04-30 09:18:02,788 - ERROR - Номер 17709 отсутствует в БД
+2025-04-30 09:18:02,963 - ERROR - Номер 17710 отсутствует в БД
+2025-04-30 09:18:05,751 - ERROR - Номер 17725 отсутствует в БД
+2025-04-30 09:18:06,826 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.152', '2025-04-30 09:18:06.823609', 3228)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:08,092 - ERROR - Номер 17738 отсутствует в БД
+2025-04-30 09:18:11,019 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.192', '2025-04-30 09:18:11.015988', 3177)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:11,902 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.62', '2025-04-30 09:18:11.901728', 3337)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:12,437 - ERROR - Номер 17771 отсутствует в БД
+2025-04-30 09:18:13,337 - ERROR - Номер 17776 отсутствует в БД
+2025-04-30 09:18:14,514 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.165', '2025-04-30 09:18:14.513686', 3305)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:15,585 - ERROR - Номер 17784 отсутствует в БД
+2025-04-30 09:18:18,015 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.189', '2025-04-30 09:18:18.012494', 3385)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:19,749 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.119', '2025-04-30 09:18:19.746083', 3205)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:21,561 - ERROR - Номер 17813 отсутствует в БД
+2025-04-30 09:18:22,471 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.209', '2025-04-30 09:18:22.468398', 3384)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:23,361 - ERROR - Номер 17823 отсутствует в БД
+2025-04-30 09:18:23,535 - ERROR - Номер 17824 отсутствует в БД
+2025-04-30 09:18:23,707 - ERROR - Номер 17825 отсутствует в БД
+2025-04-30 09:18:24,423 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.86', '2025-04-30 09:18:24.420305', 3179)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:24,966 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.234', '2025-04-30 09:18:24.963384', 3160)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:25,859 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.133', '2025-04-30 09:18:25.857163', 3340)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:27,497 - ERROR - Номер 17854 отсутствует в БД
+2025-04-30 09:18:28,873 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.166', '2025-04-30 09:18:28.870557', 3346)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:29,048 - ERROR - Номер 17857 отсутствует в БД
+2025-04-30 09:18:29,408 - ERROR - Номер 17859 отсутствует в БД
+2025-04-30 09:18:31,023 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.89', '2025-04-30 09:18:31.020546', 3188)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:31,737 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.93', '2025-04-30 09:18:31.736081', 3135)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:32,983 - ERROR - Номер 17881 отсутствует в БД
+2025-04-30 09:18:33,980 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 09:18:33.979560', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:35,832 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 09:18:36,916 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 09:18:36.915392', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:39,695 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 09:18:40,272 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 09:18:40,475 - ERROR - Номер 34755 отсутствует в БД
+2025-04-30 09:18:40,879 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 09:18:41,350 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 09:18:44,957 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 09:18:44.956596', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:46,745 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 09:18:47,811 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 09:18:47.810528', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:18:50,589 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 09:18:51,175 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 09:18:51,380 - ERROR - Номер 34755 отсутствует в БД
+2025-04-30 09:18:51,745 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 09:18:52,228 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 09:19:15,240 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:19:16,961 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 09:19:16.959231', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:18,918 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.59', '2025-04-30 09:19:18.916036', 3291)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:22,628 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.112', '2025-04-30 09:19:22.625698', 3320)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:23,158 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.161', '2025-04-30 09:19:23.156027', 3216)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:25,847 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 09:19:27,476 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 09:19:27,997 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 09:19:28,171 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 09:19:28,700 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 09:19:29,058 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 09:19:29,411 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 09:19:31,487 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 09:19:32,380 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.74', '2025-04-30 09:19:32.377635', 3373)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:41,456 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:19:43,066 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.69', '2025-04-30 09:19:43.063363', 3366)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:47,727 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.112', '2025-04-30 09:19:47.724843', 3320)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:50,948 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 09:19:52,387 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 09:19:52,919 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 09:19:53,093 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 09:19:53,625 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 09:19:53,977 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 09:19:54,330 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 09:19:55,402 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 09:19:56,294 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.74', '2025-04-30 09:19:56.292121', 3373)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:19:58,369 - ERROR - Номер 17639 отсутствует в БД
+2025-04-30 09:19:58,549 - ERROR - Номер 17640 отсутствует в БД
+2025-04-30 09:20:00,345 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 09:20:03,792 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 09:20:03,965 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 09:20:04,496 - ERROR - Номер 17675 отсутствует в БД
+2025-04-30 09:20:04,668 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 09:20:06,418 - ERROR - Номер 17686 отсутствует в БД
+2025-04-30 09:20:08,936 - ERROR - Номер 17705 отсутствует в БД
+2025-04-30 09:20:09,110 - ERROR - Номер 17706 отсутствует в БД
+2025-04-30 09:20:09,285 - ERROR - Номер 17707 отсутствует в БД
+2025-04-30 09:20:09,639 - ERROR - Номер 17709 отсутствует в БД
+2025-04-30 09:20:09,813 - ERROR - Номер 17710 отсутствует в БД
+2025-04-30 09:20:11,592 - ERROR - Номер 17725 отсутствует в БД
+2025-04-30 09:20:12,665 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.152', '2025-04-30 09:20:12.662732', 3228)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:20:13,902 - ERROR - Номер 17738 отсутствует в БД
+2025-04-30 09:20:18,053 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.165.62', '2025-04-30 09:20:18.049816', 3337)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:20:18,584 - ERROR - Номер 17771 отсутствует в БД
+2025-04-30 09:20:19,585 - ERROR - Номер 17776 отсутствует в БД
+2025-04-30 09:20:20,844 - ERROR - Номер 17784 отсутствует в БД
+2025-04-30 09:20:26,716 - ERROR - Номер 17813 отсутствует в БД
+2025-04-30 09:20:27,612 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.14.164.209', '2025-04-30 09:20:27.609189', 3384)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:20:28,493 - ERROR - Номер 17823 отсутствует в БД
+2025-04-30 09:20:28,667 - ERROR - Номер 17824 отсутствует в БД
+2025-04-30 09:20:28,841 - ERROR - Номер 17825 отсутствует в БД
+2025-04-30 09:20:33,466 - ERROR - Номер 17854 отсутствует в БД
+2025-04-30 09:20:33,995 - ERROR - Номер 17857 отсутствует в БД
+2025-04-30 09:20:34,346 - ERROR - Номер 17859 отсутствует в БД
+2025-04-30 09:20:38,048 - ERROR - Номер 17881 отсутствует в БД
+2025-04-30 09:20:50,716 - ERROR - Номер 17524 отсутствует в БД
+2025-04-30 09:21:01,228 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 09:21:02,657 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 09:21:03,186 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 09:21:03,361 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 09:21:03,905 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 09:21:04,250 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 09:21:04,594 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 09:21:04,629 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 09:21:04.629020', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:21:05,642 - ERROR - Номер 17626 отсутствует в БД
+2025-04-30 09:21:06,521 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 09:21:07,564 - ERROR - Номер 17639 отсутствует в БД
+2025-04-30 09:21:07,710 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 09:21:07.709572', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:21:07,744 - ERROR - Номер 17640 отсутствует в БД
+2025-04-30 09:21:09,465 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 09:21:10,586 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 09:21:11,087 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 09:21:11,309 - ERROR - Номер 34755 отсутствует в БД
+2025-04-30 09:21:11,738 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 09:21:12,382 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 09:21:12,405 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 09:21:12,577 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 09:21:13,109 - ERROR - Номер 17675 отсутствует в БД
+2025-04-30 09:21:13,283 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 09:21:14,533 - ERROR - Номер 17686 отсутствует в БД
+2025-04-30 09:21:17,134 - ERROR - Номер 17705 отсутствует в БД
+2025-04-30 09:21:17,308 - ERROR - Номер 17706 отсутствует в БД
+2025-04-30 09:21:17,483 - ERROR - Номер 17707 отсутствует в БД
+2025-04-30 09:21:17,835 - ERROR - Номер 17709 отсутствует в БД
+2025-04-30 09:21:18,010 - ERROR - Номер 17710 отсутствует в БД
+2025-04-30 09:21:19,783 - ERROR - Номер 17725 отсутствует в БД
+2025-04-30 09:21:22,098 - ERROR - Номер 17738 отсутствует в БД
+2025-04-30 09:21:26,388 - ERROR - Номер 17771 отсутствует в БД
+2025-04-30 09:21:27,271 - ERROR - Номер 17776 отсутствует в БД
+2025-04-30 09:21:28,512 - ERROR - Номер 17784 отсутствует в БД
+2025-04-30 09:21:33,363 - ERROR - Номер 17813 отсутствует в БД
+2025-04-30 09:21:34,310 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 09:21:34.309925', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:21:35,220 - ERROR - Номер 17823 отсутствует в БД
+2025-04-30 09:21:35,390 - ERROR - Номер 17824 отсутствует в БД
+2025-04-30 09:21:35,559 - ERROR - Номер 17825 отсутствует в БД
+2025-04-30 09:21:36,235 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 09:21:37,388 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 09:21:37.388104', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 09:21:39,571 - ERROR - Номер 17854 отсутствует в БД
+2025-04-30 09:21:40,345 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 09:21:40,954 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 09:21:41,102 - ERROR - Номер 17857 отсутствует в БД
+2025-04-30 09:21:41,174 - ERROR - Номер 34755 отсутствует в БД
+2025-04-30 09:21:41,446 - ERROR - Номер 17859 отсутствует в БД
+2025-04-30 09:21:41,613 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 09:21:42,078 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 09:21:44,979 - ERROR - Номер 17881 отсутствует в БД
+2025-04-30 10:07:53,640 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.127.77', '2025-04-30 10:07:53.637321', 483)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:07:55,600 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 10:07:56,655 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.124.137', '2025-04-30 10:07:56.654615', 488)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:16:37,437 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.196.11', '2025-04-30 10:16:37.436027', 236)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:17:29,816 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.196.11', '2025-04-30 10:17:29.815666', 236)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:18:16,541 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.196.11', '2025-04-30 10:18:16.538381', 236)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:19:26,444 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.196.11', '2025-04-30 10:19:26.443666', 1261)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:21:44,713 - ERROR - Ошибка применения действий в БД: (sqlite3.IntegrityError) UNIQUE constraint failed: phone.last_ip
+[SQL: UPDATE phone SET last_ip=?, update_at=? WHERE phone.id = ?]
+[parameters: ('10.83.196.11', '2025-04-30 10:21:44.712265', 46)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-04-30 10:57:12,215 - ERROR - Номер 33279 отсутствует в БД
+2025-04-30 10:57:13,589 - ERROR - Номер 33645 отсутствует в БД
+2025-04-30 10:57:17,795 - ERROR - Номер 34588 отсутствует в БД
+2025-04-30 10:57:18,294 - ERROR - Номер 34693 отсутствует в БД
+2025-04-30 10:57:18,954 - ERROR - Номер 34850 отсутствует в БД
+2025-04-30 10:57:19,491 - ERROR - Номер 34952 отсутствует в БД
+2025-04-30 10:57:19,518 - ERROR - Номер 34959 отсутствует в БД
+2025-04-30 12:19:11,310 - ERROR - Номер 35717 отсутствует в БД
+2025-04-30 12:19:11,525 - ERROR - Номер 35759 отсутствует в БД
+2025-04-30 12:19:11,718 - ERROR - Номер 35796 отсутствует в БД
+2025-04-30 12:19:12,641 - ERROR - Номер 35954 отсутствует в БД
+2025-04-30 12:19:12,651 - ERROR - Номер 35959 отсутствует в БД
+2025-04-30 12:19:12,661 - ERROR - Номер 35960 отсутствует в БД
+2025-04-30 12:19:12,675 - ERROR - Номер 35961 отсутствует в БД
+2025-04-30 12:20:42,443 - ERROR - Номер 11034 отсутствует в БД
+2025-04-30 12:20:43,592 - ERROR - Номер 11038 отсутствует в БД
+2025-04-30 12:20:44,734 - ERROR - Номер 11042 отсутствует в БД
+2025-04-30 12:20:46,163 - ERROR - Номер 11047 отсутствует в БД
+2025-04-30 12:20:47,880 - ERROR - Номер 11058 отсутствует в БД
+2025-04-30 12:21:05,964 - ERROR - Номер 11138 отсутствует в БД
+2025-04-30 12:21:07,676 - ERROR - Номер 11152 отсутствует в БД
+2025-04-30 12:21:48,160 - ERROR - Номер 18006 отсутствует в БД
+2025-04-30 12:21:52,542 - ERROR - Номер 18044 отсутствует в БД
+2025-04-30 12:21:56,967 - ERROR - Номер 18079 отсутствует в БД
+2025-04-30 12:22:15,092 - ERROR - Номер 18187 отсутствует в БД
+2025-04-30 12:22:35,931 - ERROR - Номер 18315 отсутствует в БД
+2025-04-30 12:22:36,118 - ERROR - Номер 18316 отсутствует в БД
+2025-04-30 12:22:49,145 - ERROR - Номер 18407 отсутствует в БД
+2025-04-30 12:22:59,160 - ERROR - Номер 18480 отсутствует в БД
+2025-04-30 12:23:08,606 - ERROR - Номер 18944 отсутствует в БД
+2025-04-30 12:23:12,532 - ERROR - Номер 18723 отсутствует в БД
+2025-04-30 12:24:07,257 - ERROR - Номер 17594 отсутствует в БД
+2025-04-30 12:24:08,696 - ERROR - Номер 17608 отсутствует в БД
+2025-04-30 12:24:09,225 - ERROR - Номер 17611 отсутствует в БД
+2025-04-30 12:24:09,400 - ERROR - Номер 17612 отсутствует в БД
+2025-04-30 12:24:09,939 - ERROR - Номер 17615 отсутствует в БД
+2025-04-30 12:24:10,295 - ERROR - Номер 17617 отсутствует в БД
+2025-04-30 12:24:10,646 - ERROR - Номер 17619 отсутствует в БД
+2025-04-30 12:24:15,629 - ERROR - Номер 17652 отсутствует в БД
+2025-04-30 12:24:19,053 - ERROR - Номер 17671 отсутствует в БД
+2025-04-30 12:24:19,226 - ERROR - Номер 17672 отсутствует в БД
+2025-04-30 12:24:19,935 - ERROR - Номер 17676 отсутствует в БД
+2025-04-30 12:24:21,185 - ERROR - Номер 17686 отсутствует в БД
+2025-04-30 12:24:24,053 - ERROR - Номер 17705 отсутствует в БД
+2025-04-30 12:24:24,227 - ERROR - Номер 17706 отсутствует в БД
+2025-04-30 12:24:24,400 - ERROR - Номер 17707 отсутствует в БД
+2025-04-30 12:24:24,752 - ERROR - Номер 17709 отсутствует в БД
+2025-04-30 12:24:24,925 - ERROR - Номер 17710 отсутствует в БД
+2025-04-30 12:24:33,324 - ERROR - Номер 17771 отсутствует в БД
+2025-04-30 12:24:34,216 - ERROR - Номер 17776 отсутствует в БД
+2025-04-30 12:24:35,773 - ERROR - Номер 17784 отсутствует в БД
+2025-04-30 12:24:40,414 - ERROR - Номер 17813 отсутствует в БД
+2025-04-30 12:24:40,880 - ERROR - Номер 11230 отсутствует в БД
+2025-04-30 12:24:41,156 - ERROR - Номер 11232 отсутствует в БД
+2025-04-30 12:24:41,713 - ERROR - Номер 11236 отсутствует в БД
+2025-04-30 12:24:42,222 - ERROR - Номер 17823 отсутствует в БД
+2025-04-30 12:24:42,396 - ERROR - Номер 17824 отсутствует в БД
+2025-04-30 12:24:42,572 - ERROR - Номер 17825 отсутствует в БД
+2025-04-30 12:24:44,253 - ERROR - Номер 11263 отсутствует в БД
+2025-04-30 12:24:44,530 - ERROR - Номер 11265 отсутствует в БД
+2025-04-30 12:24:44,669 - ERROR - Номер 11266 отсутствует в БД
+2025-04-30 12:24:45,088 - ERROR - Номер 11269 отсутствует в БД
+2025-04-30 12:24:47,244 - ERROR - Номер 17859 отсутствует в БД
+2025-04-30 12:24:48,217 - ERROR - Номер 19501 отсутствует в БД
+2025-04-30 12:24:48,354 - ERROR - Номер 19502 отсутствует в БД
+2025-04-30 12:24:48,490 - ERROR - Номер 19503 отсутствует в БД
+2025-04-30 12:24:48,627 - ERROR - Номер 19504 отсутствует в БД
+2025-04-30 12:24:48,762 - ERROR - Номер 19505 отсутствует в БД
+2025-04-30 12:24:48,988 - ERROR - Номер 19506 отсутствует в БД
+2025-04-30 12:24:49,265 - ERROR - Номер 19508 отсутствует в БД
+2025-04-30 12:24:49,551 - ERROR - Номер 19510 отсутствует в БД
+2025-04-30 12:24:50,259 - ERROR - Номер 19519 отсутствует в БД
+2025-04-30 12:24:50,395 - ERROR - Номер 19520 отсутствует в БД
+2025-04-30 12:24:50,532 - ERROR - Номер 19521 отсутствует в БД
+2025-04-30 12:24:50,670 - ERROR - Номер 19523 отсутствует в БД
+2025-04-30 12:24:50,805 - ERROR - Номер 19524 отсутствует в БД
+2025-04-30 12:24:50,940 - ERROR - Номер 19525 отсутствует в БД
+2025-04-30 12:24:51,079 - ERROR - Номер 19526 отсутствует в БД
+2025-04-30 12:24:51,217 - ERROR - Номер 19527 отсутствует в БД
+2025-04-30 12:24:51,777 - ERROR - Номер 19533 отсутствует в БД
+2025-04-30 12:24:51,912 - ERROR - Номер 19534 отсутствует в БД
+2025-04-30 12:24:52,049 - ERROR - Номер 19535 отсутствует в БД
+2025-04-30 12:24:52,187 - ERROR - Номер 19536 отсутствует в БД
+2025-04-30 12:24:52,324 - ERROR - Номер 19537 отсутствует в БД
+2025-04-30 12:24:52,460 - ERROR - Номер 19538 отсутствует в БД
+2025-04-30 12:24:52,596 - ERROR - Номер 19539 отсутствует в БД
+2025-04-30 12:24:52,733 - ERROR - Номер 19540 отсутствует в БД
+2025-04-30 12:24:52,872 - ERROR - Номер 19541 отсутствует в БД
+2025-04-30 12:24:53,009 - ERROR - Номер 19542 отсутствует в БД
+2025-04-30 12:24:53,147 - ERROR - Номер 19543 отсутствует в БД
+2025-04-30 12:24:53,425 - ERROR - Номер 19545 отсутствует в БД
+2025-04-30 12:24:53,704 - ERROR - Номер 19547 отсутствует в БД
+2025-04-30 12:24:53,840 - ERROR - Номер 19548 отсутствует в БД
+2025-04-30 12:24:53,974 - ERROR - Номер 19549 отсутствует в БД
+2025-04-30 12:24:54,111 - ERROR - Номер 19550 отсутствует в БД
+2025-04-30 12:24:55,226 - ERROR - Номер 19558 отсутствует в БД
+2025-04-30 12:24:55,362 - ERROR - Номер 19559 отсутствует в БД
+2025-04-30 12:24:55,497 - ERROR - Номер 19560 отсутствует в БД
+2025-04-30 12:24:55,908 - ERROR - Номер 19565 отсутствует в БД
+2025-04-30 12:24:56,467 - ERROR - Номер 19569 отсутствует в БД
+2025-04-30 12:24:56,603 - ERROR - Номер 19570 отсутствует в БД
+2025-04-30 12:24:56,744 - ERROR - Номер 19571 отсутствует в БД
+2025-04-30 12:24:56,881 - ERROR - Номер 19572 отсутствует в БД
+2025-04-30 12:24:57,017 - ERROR - Номер 19573 отсутствует в БД
+2025-04-30 12:24:57,152 - ERROR - Номер 19574 отсутствует в БД
+2025-04-30 12:24:57,570 - ERROR - Номер 19577 отсутствует в БД
+2025-04-30 12:24:57,705 - ERROR - Номер 19578 отсутствует в БД
+2025-04-30 12:24:57,841 - ERROR - Номер 19579 отсутствует в БД
+2025-04-30 12:24:57,977 - ERROR - Номер 19580 отсутствует в БД
+2025-04-30 12:24:58,256 - ERROR - Номер 19582 отсутствует в БД
+2025-04-30 12:24:58,391 - ERROR - Номер 19583 отсутствует в БД
+2025-04-30 12:24:58,527 - ERROR - Номер 19584 отсутствует в БД
+2025-04-30 12:24:58,662 - ERROR - Номер 19585 отсутствует в БД
+2025-04-30 12:24:58,796 - ERROR - Номер 19586 отсутствует в БД
+2025-04-30 12:24:58,928 - ERROR - Номер 19587 отсутствует в БД
+2025-04-30 12:24:59,205 - ERROR - Номер 19590 отсутствует в БД
+2025-04-30 12:24:59,346 - ERROR - Номер 19591 отсутствует в БД
+2025-04-30 12:24:59,481 - ERROR - Номер 19592 отсутствует в БД
+2025-04-30 12:24:59,767 - ERROR - Номер 19594 отсутствует в БД
+2025-04-30 12:24:59,903 - ERROR - Номер 19596 отсутствует в БД
+2025-04-30 12:25:00,038 - ERROR - Номер 19597 отсутствует в БД
+2025-04-30 12:25:00,310 - ERROR - Номер 19599 отсутствует в БД
+2025-04-30 12:25:01,628 - ERROR - Номер 19609 отсутствует в БД
+2025-04-30 12:25:01,763 - ERROR - Номер 19610 отсутствует в БД
+2025-04-30 12:25:01,900 - ERROR - Номер 19611 отсутствует в БД
+2025-04-30 12:25:02,036 - ERROR - Номер 19612 отсутствует в БД
+2025-04-30 12:25:02,312 - ERROR - Номер 19615 отсутствует в БД
+2025-04-30 12:25:02,736 - ERROR - Номер 19618 отсутствует в БД
+2025-04-30 12:25:04,581 - ERROR - Номер 19624 отсутствует в БД
+2025-04-30 12:25:04,861 - ERROR - Номер 19630 отсутствует в БД
+2025-04-30 12:25:05,421 - ERROR - Номер 19634 отсутствует в БД
+2025-04-30 12:25:05,973 - ERROR - Номер 19638 отсутствует в БД
+2025-04-30 12:25:06,109 - ERROR - Номер 19640 отсутствует в БД
+2025-04-30 12:25:06,246 - ERROR - Номер 19641 отсутствует в БД
+2025-04-30 12:25:06,523 - ERROR - Номер 19643 отсутствует в БД
+2025-04-30 12:25:06,657 - ERROR - Номер 19644 отсутствует в БД
+2025-04-30 12:25:06,792 - ERROR - Номер 19645 отсутствует в БД
+2025-04-30 12:25:07,071 - ERROR - Номер 19647 отсутствует в БД
+2025-04-30 12:25:07,208 - ERROR - Номер 19648 отсутствует в БД
+2025-04-30 12:25:07,489 - ERROR - Номер 19650 отсутствует в БД
+2025-04-30 12:25:07,765 - ERROR - Номер 19653 отсутствует в БД
+2025-04-30 12:25:07,899 - ERROR - Номер 19655 отсутствует в БД
+2025-04-30 12:25:08,035 - ERROR - Номер 19656 отсутствует в БД
+2025-04-30 12:25:08,317 - ERROR - Номер 19658 отсутствует в БД
+2025-04-30 12:25:08,453 - ERROR - Номер 19659 отсутствует в БД
+2025-04-30 12:25:08,589 - ERROR - Номер 19660 отсутствует в БД
+2025-04-30 12:25:08,862 - ERROR - Номер 19664 отсутствует в БД
+2025-04-30 12:25:09,138 - ERROR - Номер 19666 отсутствует в БД
+2025-04-30 12:25:09,273 - ERROR - Номер 19668 отсутствует в БД
+2025-04-30 12:25:09,412 - ERROR - Номер 19669 отсутствует в БД
+2025-04-30 12:25:09,549 - ERROR - Номер 19670 отсутствует в БД
+2025-04-30 12:25:10,108 - ERROR - Номер 19675 отсутствует в БД
+2025-04-30 12:25:10,247 - ERROR - Номер 19677 отсутствует в БД
+2025-04-30 12:25:10,385 - ERROR - Номер 19679 отсутствует в БД
+2025-04-30 12:25:10,523 - ERROR - Номер 19681 отсутствует в БД
+2025-04-30 12:25:10,664 - ERROR - Номер 19682 отсутствует в БД
+2025-04-30 12:25:10,934 - ERROR - Номер 19684 отсутствует в БД
+2025-04-30 12:25:11,071 - ERROR - Номер 19685 отсутствует в БД
+2025-04-30 12:25:11,207 - ERROR - Номер 19688 отсутствует в БД
+2025-04-30 12:25:11,343 - ERROR - Номер 19690 отсутствует в БД
+2025-04-30 12:25:11,621 - ERROR - Номер 19693 отсутствует в БД
+2025-04-30 12:25:11,757 - ERROR - Номер 19694 отсутствует в БД
+2025-04-30 12:25:12,038 - ERROR - Номер 19696 отсутствует в БД
+2025-04-30 12:25:12,316 - ERROR - Номер 19699 отсутствует в БД
+2025-04-30 12:25:12,587 - ERROR - Номер 19701 отсутствует в БД
+2025-04-30 12:25:12,723 - ERROR - Номер 19702 отсутствует в БД
+2025-04-30 12:25:12,859 - ERROR - Номер 19703 отсутствует в БД
+2025-04-30 12:25:13,137 - ERROR - Номер 19705 отсутствует в БД
+2025-04-30 12:25:13,276 - ERROR - Номер 19706 отсутствует в БД
+2025-04-30 12:25:13,417 - ERROR - Номер 19707 отсутствует в БД
+2025-04-30 12:25:13,556 - ERROR - Номер 19708 отсутствует в БД
+2025-04-30 12:25:14,137 - ERROR - Номер 19709 отсутствует в БД
+2025-04-30 12:25:14,275 - ERROR - Номер 19710 отсутствует в БД
+2025-04-30 12:25:14,412 - ERROR - Номер 19711 отсутствует в БД
+2025-04-30 12:25:14,550 - ERROR - Номер 19712 отсутствует в БД
+2025-04-30 12:25:14,827 - ERROR - Номер 19714 отсутствует в БД
+2025-04-30 12:25:14,962 - ERROR - Номер 19715 отсутствует в БД
+2025-04-30 12:25:15,101 - ERROR - Номер 19716 отсутствует в БД
+2025-04-30 12:25:15,518 - ERROR - Номер 19719 отсутствует в БД
+2025-04-30 12:25:15,654 - ERROR - Номер 19720 отсутствует в БД
+2025-04-30 12:25:15,788 - ERROR - Номер 19721 отсутствует в БД
+2025-04-30 12:25:15,923 - ERROR - Номер 19722 отсутствует в БД
+2025-04-30 12:25:16,058 - ERROR - Номер 19725 отсутствует в БД
+2025-04-30 12:25:16,606 - ERROR - Номер 19731 отсутствует в БД
+2025-04-30 12:25:16,881 - ERROR - Номер 19733 отсутствует в БД
+2025-04-30 12:25:17,016 - ERROR - Номер 19734 отсутствует в БД
+2025-04-30 12:25:17,577 - ERROR - Номер 19740 отсутствует в БД
+2025-04-30 12:25:17,855 - ERROR - Номер 19742 отсутствует в БД
+2025-04-30 12:25:17,990 - ERROR - Номер 19745 отсутствует в БД
+2025-04-30 12:25:18,126 - ERROR - Номер 19746 отсутствует в БД
+2025-04-30 12:25:18,261 - ERROR - Номер 19747 отсутствует в БД
+2025-04-30 12:25:18,397 - ERROR - Номер 19748 отсутствует в БД
+2025-04-30 12:25:18,532 - ERROR - Номер 19750 отсутствует в БД
+2025-04-30 12:25:18,668 - ERROR - Номер 19751 отсутствует в БД
+2025-04-30 12:25:18,947 - ERROR - Номер 19754 отсутствует в БД
+2025-04-30 12:25:19,083 - ERROR - Номер 19755 отсутствует в БД
+2025-04-30 12:25:19,216 - ERROR - Номер 19756 отсутствует в БД
+2025-04-30 12:25:19,353 - ERROR - Номер 19757 отсутствует в БД
+2025-04-30 12:25:19,489 - ERROR - Номер 19758 отсутствует в БД
+2025-04-30 12:25:19,625 - ERROR - Номер 19759 отсутствует в БД
+2025-04-30 12:25:19,896 - ERROR - Номер 19761 отсутствует в БД
+2025-04-30 12:25:20,032 - ERROR - Номер 19762 отсутствует в БД
+2025-04-30 12:25:20,308 - ERROR - Номер 19764 отсутствует в БД
+2025-04-30 12:25:20,862 - ERROR - Номер 19768 отсутствует в БД
+2025-04-30 12:25:20,998 - ERROR - Номер 19770 отсутствует в БД
+2025-04-30 12:25:21,133 - ERROR - Номер 19771 отсутствует в БД
+2025-04-30 12:25:21,267 - ERROR - Номер 19772 отсутствует в БД
+2025-04-30 12:25:21,685 - ERROR - Номер 19776 отсутствует в БД
+2025-04-30 12:25:21,820 - ERROR - Номер 19777 отсутствует в БД
+2025-04-30 12:25:22,102 - ERROR - Номер 19780 отсутствует в БД
+2025-04-30 12:25:22,237 - ERROR - Номер 19781 отсутствует в БД
+2025-04-30 12:25:22,512 - ERROR - Номер 19783 отсутствует в БД
+2025-04-30 12:25:22,647 - ERROR - Номер 19784 отсутствует в БД
+2025-04-30 12:25:22,922 - ERROR - Номер 19786 отсутствует в БД
+2025-04-30 12:25:23,198 - ERROR - Номер 19788 отсутствует в БД
+2025-04-30 12:25:23,332 - ERROR - Номер 19790 отсутствует в БД
+2025-04-30 12:25:23,466 - ERROR - Номер 19791 отсутствует в БД
+2025-04-30 12:25:23,743 - ERROR - Номер 19793 отсутствует в БД
+2025-04-30 12:25:23,878 - ERROR - Номер 19794 отсутствует в БД
+2025-04-30 12:25:24,156 - ERROR - Номер 19796 отсутствует в БД
+2025-04-30 12:25:24,433 - ERROR - Номер 19799 отсутствует в БД
+2025-04-30 12:25:24,567 - ERROR - Номер 19800 отсутствует в БД
+2025-04-30 12:25:24,703 - ERROR - Номер 19801 отсутствует в БД
+2025-04-30 12:25:24,840 - ERROR - Номер 19803 отсутствует в БД
+2025-04-30 12:25:24,978 - ERROR - Номер 19805 отсутствует в БД
+2025-04-30 12:25:25,113 - ERROR - Номер 19806 отсутствует в БД
+2025-04-30 12:25:25,248 - ERROR - Номер 19807 отсутствует в БД
+2025-04-30 12:25:25,382 - ERROR - Номер 19810 отсутствует в БД
+2025-04-30 12:25:25,519 - ERROR - Номер 19811 отсутствует в БД
+2025-04-30 12:25:25,654 - ERROR - Номер 19812 отсутствует в БД
+2025-04-30 12:25:26,066 - ERROR - Номер 19816 отсутствует в БД
+2025-04-30 12:25:26,202 - ERROR - Номер 19817 отсутствует в БД
+2025-04-30 12:25:26,338 - ERROR - Номер 19818 отсутствует в БД
+2025-04-30 12:25:26,475 - ERROR - Номер 19819 отсутствует в БД
+2025-04-30 12:25:26,612 - ERROR - Номер 19821 отсутствует в БД
+2025-04-30 12:25:26,891 - ERROR - Номер 19823 отсутствует в БД
+2025-04-30 12:25:27,027 - ERROR - Номер 19824 отсутствует в БД
+2025-04-30 12:25:27,164 - ERROR - Номер 19825 отсутствует в БД
+2025-04-30 12:25:27,301 - ERROR - Номер 19827 отсутствует в БД
+2025-04-30 12:25:27,439 - ERROR - Номер 19828 отсутствует в БД
+2025-04-30 12:25:27,712 - ERROR - Номер 19830 отсутствует в БД
+2025-04-30 12:25:27,849 - ERROR - Номер 19831 отсутствует в БД
+2025-04-30 12:25:27,985 - ERROR - Номер 19832 отсутствует в БД
+2025-04-30 12:25:28,121 - ERROR - Номер 19833 отсутствует в БД
+2025-04-30 12:25:28,257 - ERROR - Номер 19834 отсутствует в БД
+2025-04-30 12:25:28,536 - ERROR - Номер 19837 отсутствует в БД
+2025-04-30 12:25:28,672 - ERROR - Номер 19838 отсутствует в БД
+2025-04-30 12:25:28,947 - ERROR - Номер 19841 отсутствует в БД
+2025-04-30 12:25:29,084 - ERROR - Номер 19843 отсутствует в БД
+2025-04-30 12:25:29,219 - ERROR - Номер 19844 отсутствует в БД
+2025-04-30 12:25:29,353 - ERROR - Номер 19846 отсутствует в БД
+2025-04-30 12:25:29,490 - ERROR - Номер 19847 отсутствует в БД
+2025-04-30 12:25:29,764 - ERROR - Номер 19850 отсутствует в БД
+2025-04-30 12:25:29,898 - ERROR - Номер 19852 отсутствует в БД
+2025-04-30 12:25:30,034 - ERROR - Номер 19853 отсутствует в БД
+2025-04-30 12:25:30,169 - ERROR - Номер 19854 отсутствует в БД
+2025-04-30 12:25:30,305 - ERROR - Номер 19855 отсутствует в БД
+2025-04-30 12:25:30,441 - ERROR - Номер 19856 отсутствует в БД
+2025-04-30 12:25:30,575 - ERROR - Номер 19857 отсутствует в БД
+2025-04-30 12:25:30,710 - ERROR - Номер 19858 отсутствует в БД
+2025-04-30 12:25:30,846 - ERROR - Номер 19859 отсутствует в БД
+2025-04-30 12:25:30,982 - ERROR - Номер 19860 отсутствует в БД
+2025-04-30 12:25:31,537 - ERROR - Номер 19864 отсутствует в БД
+2025-04-30 12:25:31,675 - ERROR - Номер 19865 отсутствует в БД
+2025-04-30 12:25:31,811 - ERROR - Номер 19866 отсутствует в БД
+2025-04-30 12:25:32,087 - ERROR - Номер 19869 отсутствует в БД
+2025-04-30 12:25:32,225 - ERROR - Номер 19870 отсутствует в БД
+2025-04-30 12:25:32,361 - ERROR - Номер 19871 отсутствует в БД
+2025-04-30 12:25:32,498 - ERROR - Номер 19872 отсутствует в БД
+2025-04-30 12:25:32,782 - ERROR - Номер 19875 отсутствует в БД
+2025-04-30 12:25:32,918 - ERROR - Номер 19876 отсутствует в БД
+2025-04-30 12:25:33,054 - ERROR - Номер 19877 отсутствует в БД
+2025-04-30 12:25:33,191 - ERROR - Номер 19878 отсутствует в БД
+2025-04-30 12:25:33,470 - ERROR - Номер 19881 отсутствует в БД
+2025-04-30 12:25:33,606 - ERROR - Номер 19882 отсутствует в БД
+2025-04-30 12:25:33,742 - ERROR - Номер 19884 отсутствует в БД
+2025-04-30 12:25:33,878 - ERROR - Номер 19885 отсутствует в БД
+2025-04-30 12:25:34,154 - ERROR - Номер 19887 отсутствует в БД
+2025-04-30 12:25:34,430 - ERROR - Номер 19889 отсутствует в БД
+2025-04-30 12:25:34,567 - ERROR - Номер 19890 отсутствует в БД
+2025-04-30 12:25:34,702 - ERROR - Номер 19891 отсутствует в БД
+2025-04-30 12:25:34,979 - ERROR - Номер 19893 отсутствует в БД
+2025-04-30 12:25:35,257 - ERROR - Номер 19895 отсутствует в БД
+2025-04-30 12:25:35,393 - ERROR - Номер 19896 отсутствует в БД
+2025-04-30 12:25:35,530 - ERROR - Номер 19897 отсутствует в БД
+2025-04-30 12:25:35,806 - ERROR - Номер 19899 отсутствует в БД
+2025-04-30 12:25:35,939 - ERROR - Номер 19900 отсутствует в БД
+2025-04-30 12:25:36,077 - ERROR - Номер 19901 отсутствует в БД
+2025-04-30 12:25:36,359 - ERROR - Номер 19904 отсутствует в БД
+2025-04-30 12:25:36,496 - ERROR - Номер 19905 отсутствует в БД
+2025-04-30 12:25:36,633 - ERROR - Номер 19906 отсутствует в БД
+2025-04-30 12:25:36,770 - ERROR - Номер 19908 отсутствует в БД
+2025-04-30 12:25:36,907 - ERROR - Номер 19909 отсутствует в БД
+2025-04-30 12:25:37,320 - ERROR - Номер 19914 отсутствует в БД
+2025-04-30 12:25:37,455 - ERROR - Номер 19915 отсутствует в БД
+2025-04-30 12:25:37,590 - ERROR - Номер 19916 отсутствует в БД
+2025-04-30 12:25:37,862 - ERROR - Номер 19918 отсутствует в БД
+2025-04-30 12:25:38,151 - ERROR - Номер 19921 отсутствует в БД
+2025-04-30 12:25:38,287 - ERROR - Номер 19923 отсутствует в БД
+2025-04-30 12:25:38,699 - ERROR - Номер 19927 отсутствует в БД
+2025-04-30 12:25:38,837 - ERROR - Номер 19928 отсутствует в БД
+2025-04-30 12:25:39,115 - ERROR - Номер 19930 отсутствует в БД
+2025-04-30 12:25:39,252 - ERROR - Номер 19932 отсутствует в БД
+2025-04-30 12:25:39,389 - ERROR - Номер 19933 отсутствует в БД
+2025-04-30 12:25:39,811 - ERROR - Номер 19936 отсутствует в БД
+2025-04-30 12:25:39,946 - ERROR - Номер 19937 отсутствует в БД
+2025-04-30 12:25:40,084 - ERROR - Номер 19939 отсутствует в БД
+2025-04-30 12:25:44,275 - ERROR - Номер 19976 отсутствует в БД
+2025-04-30 12:25:46,521 - ERROR - Номер 19997 отсутствует в БД
+2025-04-30 12:25:46,657 - ERROR - Номер 19998 отсутствует в БД
+2025-04-30 12:25:46,794 - ERROR - Номер 19999 отсутствует в БД
